@@ -1,3 +1,53 @@
+
+Project Overview: Garden E-commerce Store.
+
+Project Name: "Garden Products" - An Internet store for home and garden goods.
+
+Project Description: Development of a web application for an e-commerce store specializing in home and garden products. The website provides users with a convenient interface for browsing products, their categories, adding items to the cart, and completing orders.
+
+Technologies Used:
+
+JavaScript
+React
+Redux
+HTML
+CSS
+
+Design Layout: https://www.figma.com/file/SDNWLzCWkh9ZXdCpWEaByv/project-frontend?type=design&node-id=280-1136&mode=design&t=NJTGdloftvn8I6Vz-0 
+
+API: 
+Data is sourced from an API available on GitHub: GitHub Repository Link https://github.com/HaykInanc/telran_project_backend 
+
+Functional Requirements:
+
+Home Page: Navigation menu. Display of 4 categories. Form for receiving a 5% discount. Display of 4 random discounted products.
+
+Product Categories: View all available product categories. Ability to navigate to the "Products by Category" section for the selected category by clicking on the category card.
+
+Products by Category: Display a list of products in the selected category. Ability to sort products (by default, by descending price, by ascending price, alphabetically). Ability to filter products (by discount availability and price range). Ability to view detailed information about a specific product by clicking on the product card.
+
+All Products: Display the full list of products. Ability to sort products (by default, by descending price, by ascending price, alphabetically). Ability to filter products (by discount availability and price range).
+
+Discounted Products: Display a list of discounted products. Ability to sort products (by default, by descending price, by ascending price, alphabetically). Ability to filter products by price range.
+
+Product Details: Comprehensive information about the selected product according to the layout (name, price, description, images). Ability to adjust the quantity of products. Ability to add the product to the cart.
+
+Shopping Cart: Display a list of selected products with their quantity and total cost. Ability to adjust the quantity of products, remove items from the cart. Calculation and display of the total cost of items in the cart. Ability to submit order data upon form submission.
+
+Page Not Found: Display a page with a message indicating that the requested page was not found. Ability to return to the home page.
+
+Contacts:
+
+1.Abashidze Sofa e-mail: abashidzesofaa@gmail.com 
+https://www.linkedin.com/in/sofa-abashidze/
+2.Irina Zhuravleva e-mail: itirina@gmail.com
+https://www.linkedin.com/in/irina-zhuravleva/
+3.Eugen Grünwald e-mail: eugen.13.70.6@gmail.com
+
+Project Link: https://github.com/abashidzesofa/final_project
+
+
+
 О проекте : Садоводческий интернет-магазин.
 Название проекта : 
 "Интернет-магазин товаров для дома и сада" (Garden Products).
